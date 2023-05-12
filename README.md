@@ -3,18 +3,24 @@
 
 **🔧 skills**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="typescript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="vue"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="nodejs"></code>
-
+<p>
+  <img width="22px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="javascript">
+  <img width="22px"" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="typescript">
+  <img width="22px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="vue">
+  <img width="22px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="nodejs">
+</p>
+<br />
+<br />
 
 **📧 contact me** 
-
-<code><a href="#676658978"><img  title="QQ-676658978" alt="676658978" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" /></a></code>
-<code><a target="_blank" href="https://github.com/zqhexor"><img title="Github" alt="zqhexor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" /></a></code>
-<code><a target="_blank" href="https://juejin.cn/user/3500492880358429"><img title="掘金" alt="zqhexor" width="22px" src="https://github.com/zqhexor/zqhexor/blob/main/juejin.svg" /></a></code>
-<code><a target="_blank" href="https://space.bilibili.com/185647762"><img title="bilibili" alt="zqhexor" width="22px" src="https://github.com/zqhexor/zqhexor/blob/main/bilibili.svg" /></a></code>
+<p>
+  <a href="#676658978"><img width="22px" align="left" title="QQ-676658978" alt="676658978" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" /></a>
+  <a target="_blank" href="https://github.com/zqhexor"><img width="22px" align="left" title="Github" alt="zqhexor"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" /></a>
+  <a target="_blank" href="https://juejin.cn/user/3500492880358429"><img width="22px" align="left" title="掘金" alt="zqhexor" src="https://github.com/zqhexor/zqhexor/blob/main/juejin.svg" /></a>
+  <a target="_blank" href="https://space.bilibili.com/185647762"><img width="22px" align="left" title="bilibili" alt="zqhexor" src="https://github.com/zqhexor/zqhexor/blob/main/bilibili.svg" /></a>
+</p>
+<br />
+<br />
 
 **📌 my github stats** 
 
