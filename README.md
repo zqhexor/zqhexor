@@ -19,7 +19,7 @@
 <p>
   <a href="#676658978"><img width="22px" align="left" title="QQ-676658978" alt="676658978" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" /></a>
   <a target="_blank" href="https://github.com/zqhexor"><img width="22px" align="left" title="Github" alt="zqhexor"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" /></a>
-  <a target="_blank" href="https://juejin.cn/user/3500492880358429"><img width="22px" align="left" title="掘金" alt="zqhexor" src="https://github.com/zqhexor/zqhexor/blob/main/juejin.svg" /></a>
+  <a target="_blank" href="https://juejin.cn/user/3500492880358429/posts"><img width="22px" align="left" title="掘金" alt="zqhexor" src="https://github.com/zqhexor/zqhexor/blob/main/juejin.svg" /></a>
   <a target="_blank" href="https://space.bilibili.com/185647762"><img width="22px" align="left" title="bilibili" alt="zqhexor" src="https://github.com/zqhexor/zqhexor/blob/main/bilibili.svg" /></a>
 </p>
 <br />
