@@ -28,7 +28,7 @@
 **📌 my github stats** 
 
 <a href="http://www.github.com/zqhexor">
-  <img src="https://github-readme-stats.vercel.app/api?username=zqhexor&show_icons=true&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zqhexor&show_icons=true&theme=tokyonight" alt="HexOr's GitHub stats"/>
 </a>
 
 
