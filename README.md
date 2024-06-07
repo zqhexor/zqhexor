@@ -31,6 +31,7 @@
 
 **📧 contact me** 
 <p>
+  <a href="mailto:676658978@qq.com"><img width="22px" align="left" title="676658978@qq.com" alt="676658978@qq.com" src="https://github.com/zqhexor/zqhexor/blob/main/email.svg" /></a>
   <a href="#676658978"><img width="22px" align="left" title="QQ-676658978" alt="676658978" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" /></a>
   <a target="_blank" href="https://github.com/zqhexor"><img width="22px" align="left" title="Github" alt="zqhexor"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" /></a>
   <a target="_blank" href="https://juejin.cn/user/3500492880358429/posts"><img width="22px" align="left" title="掘金" alt="zqhexor" src="https://github.com/zqhexor/zqhexor/blob/main/juejin.svg" /></a>
