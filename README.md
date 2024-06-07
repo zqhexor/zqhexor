@@ -13,6 +13,9 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img width="22px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="vue">
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img width="22px" align="left" src="https://avatars.githubusercontent.com/u/67109815" title="tailwindcss">
+  </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img width="22px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" title="nodejs">
   </a>
